@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/MainFrameController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/VO" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/VO/FeedBack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/VO/GuessSexVO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/VO/RequireMentsVO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/VO/RequireStaff.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/VO/StaffDefVO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/comm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/comm/CommUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/file/Uploader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/jdbc/GuessSexOODao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/jdbc/RequireMentsDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/frame/jdbc/RequireStaffDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resource/js/Comms.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resource/js/easySlider1.5.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resource/js/jquery.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resource/style.css" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
+
